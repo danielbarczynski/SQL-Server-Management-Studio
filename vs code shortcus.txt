@@ -1,0 +1,9 @@
+Ctrl + Shift + K - deletes line
+Ctrl + Shift + O - search for variables, functions, classes 
+Ctrl + T - the same but for your entire workspace
+F2 - renames all variables
+Ctrl + C/V/X - copy/paste/cuts entire line
+Ctrl + D - marks all the variables
+Ctrl + P - search for projects
+Ctrl + Shigt + P - command pallete
+
